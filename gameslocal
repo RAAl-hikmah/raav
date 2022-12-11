@@ -1,0 +1,298 @@
+local games = { 
+    ["Blox Fruits"] = 2753915549,
+    ["Prison Life"] = 155615604,
+    ["Chicago Remastered"] = 7167319176,
+    ["Goal Kick Simulator"] = 9281034297,
+    ["Raise a Floppa"] = 9203864304,
+    ["Mic Up"] = 6884319169,
+    ["Clicker Madness"] = 5490351219,
+    ["S.W.A.T Simulator"] = 2906554815,
+    ["Army Simulator"] = 2445600238,
+    ["Arsenal"] = 286090429,
+    ["Jetpack Jumpers"] = 7444263453,
+    ["Superhero Simulator"] = 2577423786,
+    ["Backpacking"] = 1997193809,
+    ["Break In"] = 3851622790,
+    ["Cart Ride Into Rdite"] = 4913581664,
+    ["Base Battles"] = 5326405001,
+    ["BIGFOOT"] = 4661110989,
+    ["Notoriety"] = 21532277,
+    ["Cart Ride Into Poppy"] = 8270679637,
+    ["Ninja Legends"] = 3956818381,
+    ["Tapping Legends X"] = 8750997647,
+    ["Tornado Simulator"] = 9300344892,
+    ["Mad City"] = 1224212277,
+    ["Big PaintBall"] = 3527629287,
+    ["Millionaire Empire Tycoon"] = 6677985923,
+    ["Saber Simulator"] = 3823781113,
+    ["Anime Clicker Simulator"] = 3102144307,
+    ["Brookhaven"] = 4924922222,
+    ["Bad Business"] = 3233893879,
+    ["Cart Ride Around guywithapoo"] = 5499911356,
+    ["Parris Island, South Carolina"] = 5959668085,
+    ["Town"] = 4991214437,
+    ["Murder Mystery 2"] = 142823291,
+    ["Super Treehouse Tycoon"] = 4874301395,
+    ["Roblox Tycoon"] = 459545256,
+    ["Fruit Juice Tycoon: Refreshed"] = 6755746130,
+    ["Pro Border"] = 7014716500,
+    ["PISTOL 1V1"] = 6722284015,
+    ["TOH"] = 1962086868,
+    ["Hood Duels"] = 6751371363,
+    ["Crash Town Game Thing"] = 7371829073,
+    ["Driving Empire"] = 3351674303,
+    ["Roblox but every second you get +1 Walk Speed"] = 9122041989,
+    ["White Room"] = 4765805939,
+    ["Late Night Drive"] = 5622162130,
+    ["Broken Bones 4"] = 2551991523,
+    ["99% Fail Impossible Obby"] = 7584496019,
+    ["Flee the Facility"] = 893973440,
+    ["Sword Fight and Flex Your Time"] = 5379581123,
+    ["Home Run Simulator"] = 9598746251,
+    ["Combat Warriors"] = 4282985734,
+    ["Hoop Central 6"] = 7075737729,
+    ["Mall Tycoon"] = 5736409216,
+    ["Slime Tower Tycoon"] = 10675066724,
+    ["Rainbow Friends"] = 7991339063,
+    ["Scuba Diving at Quill Lake"] = 35397735,
+    ["Be Crushed by a Speeding Wall"] = 482742811,
+    ["The Longest Hole In Roblox"] = 6281183,
+    ["Breaking Point"] = 648362523,
+    ["Da Hood"] = 2788229376,
+    ["Festival Tycoon"] = 9648883891,
+    ["Twisted"] = 6161235818,
+    ["Impossible Glass Bridge Obby"] = 7952502098,
+    ["Pet Simulator X"] = 6284583030,
+   
+    ["Game Store Tycoon"] = 10963175,
+    ["Sandhurst Military Academy"] = 270499015,
+    } 
+    if game.PlaceId == 2753915549 then 
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/BLOXFRUITS", true))()
+            end
+    if game.PlaceId == 155615604 then 
+    loadstring(game:HttpGet("https://pastebin.com/raw/Sc3Pdarc"))()
+    end
+    if game.PlaceId == 7167319176 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Chicago%20Remastered.lua")))()
+    end
+    if game.PlaceId == 9281034297 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/GoalKickSimulator.lua")))()
+    end
+    if game.PlaceId == 9281034297 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Raiseafloppa.lua")))()
+    end
+    if game.PlaceId == 6884319169 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/micup.lua")))()
+    end
+    if game.PlaceId == 5490351219 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Clicker%20Madness.lua")))()
+    end
+    if game.PlaceId == 2906554815 then 
+    game.ReplicatedStorage.addXP:FireServer(9999999)
+    end
+    if game.PlaceId == 2445600238 then 
+    game.ReplicatedStorage.addXP:FireServer(9999999)
+    end
+    if game.PlaceId == 286090429 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Protected%20(5).lua")))()
+    end
+    if game.PlaceId == 7444263453 then 
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/Nameless9000/RbxScripts/main/JetpackJumpersInfMoney.lua")()
+    end
+    if game.PlaceId == 2577423786 then 
+    loadstring(game:HttpGet(('https://pastebin.com/raw/ki1dmHd8'),true))()
+    end
+    if game.PlaceId == 1997193809 then 
+    _G.auto = true
+    while _G.auto == true do
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/DeathAsgel/a/main/z'),true))() 
+    wait (1)
+    end
+    end
+    if game.PlaceId == 3851622790 then 
+    local A_1 = "SwatGun"
+    local A_2 = true
+    local Event = game:GetService("ReplicatedStorage").RemoteEvents.OutsideRole
+    Event:FireServer(A_1, A_2)
+    end
+    if game.PlaceId == 2577423786 then 
+    loadstring(game:HttpGet(('https://pastebin.com/raw/ki1dmHd8'),true))()
+    end
+    if game.PlaceId == 4913581664 then 
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(309.7381591796875, 852.6570434570312, 321.1290588378906)
+    end
+    if game.PlaceId == 5326405001 then 
+    loadstring(game:HttpGet(("https://pastebin.com/raw/RacPwwzq")))()
+    end
+    if game.PlaceId == 4661110989 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Blue-v3rm/blue-s-stuff/master/bigfoot.lua"))()
+    end
+    if game.PlaceId == 21532277 then 
+    loadstring(game:GetObjects("rbxassetid://4763830754")[1].Source)()
+    end
+    if game.PlaceId == 8270679637 then 
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(63.41770935058594, 1696.5533447265625, -854.55126953125)
+    end
+    if game.PlaceId == 3956818381 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/SpaceHub.lua")))()
+    end
+    if game.PlaceId == 8750997647 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/SpaceHub.luab")))()
+    end
+    if game.PlaceId == 9300344892 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/SpaceHub.lua")))()
+    end
+    if game.PlaceId == 1224212277 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/SpaceHub.lua")))()
+    end
+    if game.PlaceId == 3527629287 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/SpaceHub.lua")))()
+    end
+    if game.PlaceId == 6677985923 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/SpaceHub.lua")))()
+    end
+    if game.PlaceId == 3823781113 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/SpaceHub.lua")))()
+    end
+    if game.PlaceId == 3102144307 then 
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/SpaceHub.lua")))()
+    end
+    if game.PlaceId == 4924922222 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Protected%20(7).lua"))()
+    end
+    if game.PlaceId == 3233893879 then 
+    loadstring(game:HttpGet("https://lycscripts.com/Lucas/b"))()
+    end
+    if game.PlaceId == 5499911356 then 
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-356.79083251953125, 701.0478515625, -2131.89111328125)
+    end
+    if game.PlaceId == 5959668085 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/killallcarbonengine"))()
+    end
+    if game.PlaceId == 4991214437 then 
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Town'))()
+    end
+    if game.PlaceId == 142823291 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Protected%20(6).lua'))()
+    end
+    if game.PlaceId == 4874301395 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Protected%20(6).lua'))()
+    end
+    if game.PlaceId == 459545256 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Protected%20(6).lua'))()
+    end
+    if game.PlaceId == 6755746130 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Protected%20(6).lua'))()
+    end
+    if game.PlaceId == 7014716500 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Protected%20(6).lua'))()
+    end
+    if game.PlaceId == 6722284015 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Protected%20(6).lua'))()
+    end
+    if game.PlaceId == 1962086868 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Protected%20(6).lua'))()
+    end
+    if game.PlaceId == 6751371363 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Protected%20(6).lua'))()
+    end
+    if game.PlaceId == 7371829073 then 
+        while true do
+            local args = {
+                [1] = game:GetService("ReplicatedStorage").Vehicles.WorkVehicles.HaulTruck,
+                [2] = Color3.new(0.639216, 0.639216, 0.639216),
+                [3] = Color3.new(1, 1, 1),
+                [4] = ""
+            }
+            
+            game:GetService("Players").LocalPlayer.PlayerGui.MainGuis.Topbar.main.VehicleSelect.VehicleSelector.SpawnVehicle:FireServer(unpack(args))
+            wait()
+            end
+    end
+    if game.PlaceId == 3351674303 then 
+        loadstring(game:HttpGet('https://pastebin.com/raw/n2uWECtw'))()
+    end
+    if game.PlaceId == 9122041989 then 
+        loadstring(game:HttpGet('https://pastebin.com/raw/PpkZGEPz'))()
+    end
+    if game.PlaceId == 4765805939 then 
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-12.50235652923584, 25.857158660888672, 22.99946403503418)
+    end
+    if game.PlaceId == 5622162130 then 
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-853.8753051757812, 53.23225784301758, 74.94017791748047)
+    end
+    if game.PlaceId == 2551991523 then 
+        loadstring(game:HttpGet('https://pastebin.com/raw/RXyPsufj'))()
+    end
+    if game.PlaceId == 7584496019 then 
+        loadstring(game:HttpGet('https://pastebin.com/raw/JgQH5wZP'))()
+    end
+    if game.PlaceId == 893973440 then 
+        loadstring(game:HttpGet('https://pastebin.com/raw/2SzcQZcu'))()
+    end
+    if game.PlaceId == 5379581123 then 
+        loadstring(game:HttpGet('https://pastebin.com/raw/wizXH90p'))()
+    end
+    if game.PlaceId == 9598746251 then 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/homerunsimulatorscript", true))()
+    end
+    if game.PlaceId == 4282985734 then 
+        _G.killAuraEnabled = true
+_G.infiniteStamina = true
+_G.killAuraRange = 12
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/samuelLovesPie/verm_releases/main/combat_warriors.lua", true))()
+    end
+if game.PlaceId == 7075737729 then 
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/hoopcentral6'))()
+    end
+    if game.PlaceId == 5736409216 then 
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/hoopcentral6'))()
+        end
+        if game.PlaceId == 10675066724 then 
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/slimetowertycoon'))()
+            end
+            if game.PlaceId == 7991339063 then 
+                loadstring(game:HttpGet('https://pastebin.com/raw/c5YEeMr1'))()
+            end
+            if game.PlaceId == 35397735 then 
+                loadstring(game:HttpGet("https://pastebin.com/raw/uw7HxdEe", true))()
+            end
+            if game.PlaceId == 482742811 then 
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(280.8593444824219, -73.13568115234375, 328.81219482421875)
+            end
+            if game.PlaceId == 6281183 then 
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(29.01219367980957, 49207.2578125, 26.656606674194336)
+            end
+            if game.PlaceId == 648362523 then 
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-29.588090896606445, 4.691598415374756, -211.45433044433594)
+            end
+            if game.PlaceId == 2788229376 then 
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/dahood", true))()    
+            end
+            if game.PlaceId == 9648883891 then 
+                local args = {
+                    [1] = 5000000000000000000000 -- amount of money
+                }
+                
+                game:GetService("ReplicatedStorage").RemoteObjects.DanceGameCash:FireServer(unpack(args))
+            end
+            if game.PlaceId == 6161235818 then 
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/twisted", true))()    
+            end
+            if game.PlaceId == 6284583030 then 
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/petsimx.lua", true))()
+            end
+           
+            if game.PlaceId == 7952502098 then 
+                while wait() do
+                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1106.57, 65.16, 115.97)
+                end                         
+            end
+            if game.PlaceId == 10963175 then 
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/Game%20Store%20Tycoon", true))()
+            end
+            if game.PlaceId == 270499015 then 
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/sandhurts", true))()
+            end
