@@ -1,4 +1,4 @@
-local whitelistecheck = loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/spacehubpremiumloader", true))()
+local whitelistecheck = loadstring(game:HttpGet("https://raw.githubusercontent.com/SansLineV2/main/spacehubpremiumloader", true))()
 if whitelistecheck[game:service('Players').LocalPlayer.UserId] then
 print("Worked")
 else
